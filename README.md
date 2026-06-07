@@ -49,7 +49,7 @@ cd miniblog
 ```
 cd back-end
 npm install
-npm run dev
+node app.js
 ```
 Create .env file:
 ```
