@@ -9,7 +9,9 @@ A simple full-stack blogging platform built with **Node.js (Express)** for backe
 ## 📁 Project Structure
 
 miniblog/
+
 ├── back-end/ → REST API (Node.js, Express, MongoDB)
+
 ├── front-end/ → User Interface (HReact)
 
 
@@ -38,24 +40,29 @@ miniblog/
 
 ### 1. Clone repo
 
-```bash
+```
 git clone <https://github.com/tahadeh2010/miniBlog>
+
 cd miniblog
 ```
 ### 2. Backend setup 
+```
 cd back-end
 npm install
 npm run dev
-
+```
 Create .env file:
+```
 PORT=5000
 JWT_SECRET=your_secret
 MONGO_URI=your_db_url
-
+```
 ### 3. Frontend setup
+```
 cd front-end
 npm install
 npm start
+```
 ---
 ## Notes
 Frontend is only for testing and demonstration
