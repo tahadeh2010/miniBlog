@@ -1,4 +1,4 @@
-# 📝 MiniBlog Full Stack Project
+# 📝 MiniBlog Project
 
 A simple full-stack blogging platform built with **Node.js (Express)** for backend and a **Vanilla/React frontend** for UI.
 
